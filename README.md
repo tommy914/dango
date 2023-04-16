@@ -19,4 +19,3 @@ yarn format
 ```
 yarn test
 ```
-a
